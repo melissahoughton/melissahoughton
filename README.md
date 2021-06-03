@@ -1,16 +1,16 @@
-### Hi there 👋
+### 👋 About me
 
-<!--
-**melissahoughton/melissahoughton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Melissa Houghton (she/her) is a Lead Software Engineer at [Azenix](https://www.azenix.com.au/) and a [Microsoft MVP](https://mvp.microsoft.com/) in Developer Technologies.
 
-Here are some ideas to get you started:
+Her work is focused on application development using Angular, .NET, and Azure, but she has a wide variety of skills and is always open to learning new things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+An advocate for women in tech with a passion for leadership, technology and giving back to the community. She frequents tech events, is an international conference speaker and organiser of [DDD Melbourne conference](https://www.dddmelbourne.com/), [Melb․NET meetup](https://www.meetup.com/en-AU/Melb-NET-Meetup), and [Microsoft AU New Breakpoint Community](https://github.com/AussieAzureDevs/New-Breakpoint).
+
+Originally from California, Melissa loves to travel and now lives in Melbourne, Australia.
+
+### 🌐 Connect with me
+
+- Twitter: [@meliss_houghton](https://twitter.com/meliss_houghton)
+- LinkedIn: https://www.linkedin.com/in/melissa-houghton/
+- Personal Website: https://melissahoughton.dev/
+- Speaker Profile: https://noti.st/melissahoughton
